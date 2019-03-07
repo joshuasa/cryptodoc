@@ -4,7 +4,7 @@ Collection of notes and code including a docker container.
 
 ## GnuPG Overview
 
-[GnuPG](https://gnupg.org/) (also known as GPG) is a free implementation of the OpenPGP standard as defined by IETF [RFC4880](https://www.ietf.org/rfc/rfc4880.txt). With GPG you can securely encrypt and sign your data and communications.
+[GnuPG](https://gnupg.org/) (also known as GPG) is a free implementation of the OpenPGP public key cryptography standard as defined by IETF [RFC4880](https://www.ietf.org/rfc/rfc4880.txt). With GPG you can securely encrypt and sign your data and communications.
 
 ## GnuPG Resources
 
