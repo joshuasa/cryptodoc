@@ -1,6 +1,6 @@
-# GnuPG Repository
+# CryptoDoc
 
-Collection of notes and code including a docker container.
+Collection of GnuPG based cryptography notes and code built around a custom docker container.
 
 ## GnuPG Overview
 
